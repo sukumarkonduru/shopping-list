@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order>-1</condition_order>
+        <datasource_table>x_484562_shopping_shopping_item</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Shopping Items">7ee27d02dbb11010cb1c5385ca9619b3</embedded_screen>
+        <item_view display_value="Shopping Item List Screen Item View">fae27d02dbb11010cb1c5385ca9619b0</item_view>
+        <name>Shopping Item master_item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-05 20:29:25</sys_created_on>
+        <sys_id>3ae27d02dbb11010cb1c5385ca9619b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Shopping Item master_item</sys_name>
+        <sys_package display_value="Shopping List" source="x_484562_shopping">eb2171cadb711010cb1c5385ca96195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">eb2171cadb711010cb1c5385ca96195a</sys_scope>
+        <sys_update_name>sys_sg_master_item_3ae27d02dbb11010cb1c5385ca9619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-05 20:41:46</sys_updated_on>
+        <table>x_484562_shopping_shopping_item</table>
+    </sys_sg_master_item>
+</record_update>
